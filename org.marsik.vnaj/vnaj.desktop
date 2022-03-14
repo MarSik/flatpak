@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=vna/J
+Exec=/app/bin/app.sh
+Type=Application
+Icon=org.marsik.VnaJ
+Categories=HAM
